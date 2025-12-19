@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="5.778" tests="1" skipped="0" failures="1" errors="0" timestamp="2025-12-09T07:01:36.310476700Z">
+<testcase classname="Verifying omrbranch login" name="Verifying valid credentials" time="5.536">
+<failure/>
+<system-out><![CDATA[
+Given User is on the omr page...............................................passed
+When User enter userName and password.......................................undefined
+And User clicks the login button............................................skipped
+Then User should verify after success login message.........................skipped
+]]></system-out>
+</testcase>
+</testsuite>

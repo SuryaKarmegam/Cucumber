@@ -1,0 +1,8 @@
+2025-12-12 11:44:11 INFO  com.omrbranch.log.Employee - Start
+2025-12-12 11:44:11 INFO  com.omrbranch.log.Employee - Browser Launch
+2025-12-12 11:44:11 WARN  com.omrbranch.log.Employee - Enter url
+2025-12-12 11:44:11 ERROR com.omrbranch.log.Employee - End
+2025-12-12 12:03:55 INFO  com.omrbranch.log.Employee - Start
+2025-12-12 12:03:55 INFO  com.omrbranch.log.Employee - Browser Launch
+2025-12-12 12:03:55 WARN  com.omrbranch.log.Employee - Enter url
+2025-12-12 12:03:55 ERROR com.omrbranch.log.Employee - End
