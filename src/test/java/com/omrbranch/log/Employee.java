@@ -12,6 +12,15 @@ public class Employee {
 		System.out.println("Python");
 		System.out.println("C");
 		System.out.println("C++");
+		System.out.println("Java");
+		System.out.println("Python");
+		System.out.println("C");
+		System.out.println("C++");
+		System.out.println("Java");
+		System.out.println("Python");
+		System.out.println("C");
+		System.out.println("C++");
+		
 		logger.info("Start");
 		logger.info("Browser Launch");
 		logger.warn("Enter url");
