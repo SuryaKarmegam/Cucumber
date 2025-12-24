@@ -20,11 +20,18 @@ public class Employee {
 		System.out.println("Python");
 		System.out.println("C");
 		System.out.println("C++");
-		
+        
 		logger.info("Start");
 		logger.info("Browser Launch");
 		logger.warn("Enter url");
 		logger.error("End");
-		
+		System.out.println("JavaScript");
+		System.out.println("Ruby");
+		System.out.println("C++");
+		System.out.println("Appium");
+		System.out.println("Selenium");
+		System.out.println("SQL");
+		System.out.println("Jenkins");
+		System.out.println("Git");
 	}
 }
